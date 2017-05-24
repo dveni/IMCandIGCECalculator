@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BMI and SBFI Calculator</string>
+    <string name="title">Calculator</string>
+    <string name="height_cm">Height (cm):</string>
+    <string name="height_hint">Enter your height</string>
+    <string name="weight">Weight (kg):</string>
+    <string name="weight_hint">Enter your weight</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birth">Date of birth:</string>
+    <string name="calculate">Calculate</string>
+    <string name="imc">BMI:</string>
+    <string name="underweight">Underweight</string>
+    <string name="healthy">Healthy weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+    <string name="sbfi">SBFI:</string>
+    <string name="essential_fat">Essential fat</string>
+    <string name="athletes">Athletes</string>
+    <string name="fitness">Fitness</string>
+    <string name="average">Average</string>
+    <string name="excess_fat">Excess fat</string>
+    <string name="dateAndgenderError">Enter a correct gender and date</string>
+    <string name="dateError">Enter a correct date</string>
+    <string name="genderError">Enter a correct gender</string>
+    <string name="error">Introduced fields are incorrect</string>
+</resources>

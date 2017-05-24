@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calculadora de IMC y IGCE </string>
+    <string name="title">Calculadora</string>
+    <string name="height_cm">Altura (cm):</string>
+    <string name="height_hint">Introduzca altura</string>
+    <string name="weight">Peso (kg):</string>
+    <string name="weight_hint">Introduzca peso</string>
+    <string name="gender">Género:</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="birth">Fecha de nacimiento:</string>
+    <string name="calculate">Calcular</string>
+    <string name="imc">IMC:</string>
+    <string name="underweight">Bajo peso</string>
+    <string name="healthy">Normal</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="obese">Obesidad</string>
+    <string name="sbfi">IGCE:</string>
+    <string name="essential_fat">Grasa esencial</string>
+    <string name="athletes">Atletas</string>
+    <string name="fitness">Fitness</string>
+    <string name="average">Normal</string>
+    <string name="excess_fat">Grasa excesiva</string>
+    <string name="dateAndgenderError">Introduzca unos campos correctos</string>
+    <string name="dateError">Introduzca una fecha correcta</string>
+    <string name="genderError">Introduzca un género correcto</string>
+    <string name="error">Campos introducidos incorrectos</string>
+
+</resources>
